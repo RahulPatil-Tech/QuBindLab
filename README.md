@@ -65,7 +65,7 @@ The **variational principle** guarantees `E_VQE ≥ E_exact`. A VQE value below 
 ### 1. Clone
 
 ```bash
-git clone https://github.com/<your-username>/QuBindLab.git
+git clone https://github.com/RahulPatil-Tech/QuBindLab.git
 cd QuBindLab
 ```
 
@@ -192,14 +192,10 @@ Edit these in `h2_vqe_scan.py`:
 
 Issues and pull requests are welcome. Good first contributions: unit tests (VQE vs exact on H₂), a noise-model benchmark, or a new molecule.
 
-## 📄 License
-
-Released under the MIT License. Add a `LICENSE` file to your repository to match.
-
 ---
 
 <div align="center">
 
-*Built as a stepping stone from textbook molecules to quantum-assisted drug discovery.*
+<sub>Built with ⚛️ by **[Rahul Patil](https://github.com/RahulPatil-Tech)** • Released under the [MIT License](LICENSE)</sub>
 
 </div>
